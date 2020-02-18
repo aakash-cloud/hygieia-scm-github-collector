@@ -1,4 +1,4 @@
-#!/bin/bash/sssssss
+#!/bin/bash/
 cat > $PROP_FILE <<EOF
 #Database Name
 dbname=${HYGIEIA_API_ENV_SPRING_DATA_MONGODB_DATABASE:-dashboarddb}
